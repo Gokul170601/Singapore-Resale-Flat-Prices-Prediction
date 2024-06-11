@@ -3,7 +3,7 @@
 ### App Live : https://singapore-resale-flat-prices-prediction-03q3.onrender.com
 
 ## 📘 Introduction
-This project focuses on predicting the resale prices of Singapore flats using HDB data, leveraging the power of machine learning. The data undergoes thorough preprocessing, including handling outliers and encoding categorical features. I experimented with various regression models and selected the best performer, such as Random Forest. The user-friendly Streamlit application allows users to input features and receive real-time predictions, making it easier to explore and understand the housing market. Deployed on Render, it ensures easy access and smooth performance, empowering users to make informed decisions about flat resale prices in Singapore.
+This project focuses on predicting the resale prices of Singapore flats using HDB data, leveraging the power of machine learning. The data undergoes thorough preprocessing, including handling outliers and encoding categorical features. I experimented with various regression models and selected the best performer. The user-friendly Streamlit application allows users to input features and receive real-time predictions, making it easier to explore and understand the housing market. Deployed on Render, it ensures easy access and smooth performance, empowering users to make informed decisions about flat resale prices in Singapore.
 
 ## Domain : 🏘️ Real Estate
 
@@ -61,7 +61,7 @@ This project focuses on predicting the resale prices of Singapore flats using HD
 
 ### 🎥 Demo Vide
 
-YT Link :
+YT Link : https://youtu.be/g5Pgxj76jzc
 
 ### 📞 Contact
 LINKEDIN: www.linkedin.com/in/gokul-m-j17/             
