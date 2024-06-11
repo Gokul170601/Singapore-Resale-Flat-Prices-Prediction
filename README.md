@@ -50,3 +50,19 @@ This project focuses on predicting the resale prices of Singapore flats using HD
 * Model Serialization: Saved the trained DecisionTree Regressor model using pickle for later use in the application.
 * Dashboard Development: Built an interactive dashboard using Streamlit to allow users to input relevant features and get predictions on flat resale prices.
 * Deployed the application on Render for easy access and smooth performance.
+
+### 👨‍🏫 Reference
+* [Python Documentation](https://docs.python.org/3/)
+* [pandas Documentation](https://pandas.pydata.org/docs/)
+* [scikit-learn Documentation](https://scikit-learn.org/0.21/index.html)
+* [numpy Documentation](https://numpy.org/doc/)
+* [Streamlit Documentation](https://docs.streamlit.io/)
+
+
+### 🎥 Demo Vide
+
+YT Link :
+
+### 📞 Contact
+LINKEDIN: www.linkedin.com/in/gokul-m-j17/             
+EMAIL : gokulgokul6847@gmail.com
